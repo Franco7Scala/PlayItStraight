@@ -1,5 +1,6 @@
 # Play it Straight: An Intelligent Data Pruning Technique for Green-AI
 
+[![Paper](https://img.shields.io/badge/Paper-Discovery_Science-brightgreen.svg)](https://doi.org/10.1007/978-3-031-78977-9_5)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the code and resources for the research paper "Play it Straight: An Intelligent Data Pruning Technique for Green-AI". Our proposed "Play It Straight" algorithm aims to reduce the computational and environmental costs of training AI models by strategically pruning the training dataset without compromising performance.
